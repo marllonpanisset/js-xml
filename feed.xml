@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+	<channel>
+		<title>Notícias da Interativa</title>
+		<link>http://interativa</link>
+		<description>Lista de notícias mais recentes da Interativa</description>
+		<item>
+			<guid><![CDATA[{2CC94A97-4D09-42E2-AC47-526E9F161FCF}]]></guid>
+			<title><![CDATA[A torcida brasileira está na linha]]></title>
+			<description><![CDATA[Veja os cartões telefônicos que deixavam as ligações em clima de Copa desde a década de 90]]></description>
+			<category><![CDATA[Copa do Mundo]]></category>
+			<author><![CDATA[Luciana Kulba]]></author>
+			<link><![CDATA[http://interativa/LumisShowItemDetails.asp?ItemID={2CC94A97-4D09-42E2-AC47-526E9F161FCF}]]></link>
+			<pubDate><![CDATA[Wed, 20 Jun 2018 09:00:00 -0300 ]]></pubDate>
+		</item>
+		<item>
+			<guid><![CDATA[{94363A7C-A299-41BB-9959-798286F42A7E}]]></guid>
+			<title><![CDATA[Indique a Oi TV para ver gols em 4K]]></title>
+			<description><![CDATA[Clientes Oi TV contam com imagens em alta definição para a transmissão dos jogos da Rússia]]></description>
+			<category><![CDATA[Copa do Mundo]]></category>
+			<author><![CDATA[Arize Sousa Fernandes De Oliveira]]></author>
+			<link><![CDATA[http://interativa/LumisShowItemDetails.asp?ItemID={94363A7C-A299-41BB-9959-798286F42A7E}]]></link>
+			<pubDate><![CDATA[Mon, 18 Jun 2018 17:03:00 -0300 ]]></pubDate>
+		</item>
+		<item>
+			<guid><![CDATA[{F6769C87-FD08-499A-B46A-015D8A5F7FA8}]]></guid>
+			<title><![CDATA[Expediente durante a Copa]]></title>
+			<description><![CDATA[Saiba como ficam os horários de trabalho nos dias de jogos da seleção brasileira]]></description>
+			<category><![CDATA[Copa do Mundo]]></category>
+			<author><![CDATA[Luciana Kulba]]></author>
+			<link><![CDATA[http://interativa/LumisShowItemDetails.asp?ItemID={F6769C87-FD08-499A-B46A-015D8A5F7FA8}]]></link>
+			<pubDate><![CDATA[Mon, 11 Jun 2018 09:50:00 -0300 ]]></pubDate>
+		</item>
+		<item>
+			<guid><![CDATA[{2C0C118B-4F76-4C4D-B58A-420FD59E9AF7}]]></guid>
+			<title><![CDATA[É hora de gol. Prontos pra torcida?]]></title>
+			<description><![CDATA[Pra aproveitar ainda mais os jogos, indique nossa seleção de ofertas]]></description>
+			<category><![CDATA[Copa do Mundo]]></category>
+			<author><![CDATA[Arize Sousa Fernandes De Oliveira]]></author>
+			<link><![CDATA[http://interativa/LumisShowItemDetails.asp?ItemID={2C0C118B-4F76-4C4D-B58A-420FD59E9AF7}]]></link>
+			<pubDate><![CDATA[Fri, 08 Jun 2018 11:10:00 -0300 ]]></pubDate>
+		</item>
+	</channel>
+</rss>
